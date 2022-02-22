@@ -9,4 +9,7 @@ the factorial,...
 * .gitignore file to indicate which one is uploaded
 * The README.md file to show the homepage of this repo
 
+## Screenshots for DDT/TDD/Junit
+![DDT-TDD-JUnit code](https://github.com/Tien0202/math-util-1503/blob/main/screenshots/DDT-TDD-JUnit.png)
+
 #### © 2022 TienSE
